@@ -2,7 +2,7 @@
 
 
 <h1 align="center">Hello and Welcome 👋, I'm Bharat</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A frontend developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 
@@ -11,7 +11,7 @@
 
 
 # 📫 Connect with me:
-<a href="mailto: bharatbhatt2003bk@gmail.com@gmail.com" target="_blank">
+<a href="mailto: bharatbhatt2003bk@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
 </a> 
 <a href="https://www.linkedin.com/in/bharat-bhatt-a7b8a4269?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app " target="_blank">
