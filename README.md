@@ -1,4 +1,4 @@
-# [![MasterHead](https://camo.githubusercontent.com/fcd090c9c08f460ac582d371fdd3f55ebeeb9dee107b68b42786a4b4cc0a1fd0/687474703a2f2f70726f70756c736976652e696e2f6173736574732f696d672f736572766963652d69636f6e2f7765622e676966)](https://www.linkedin.com/in/bharat-bhatt-a7b8a4269?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app/)
+
 
 
 <h1 align="center">Hello and Welcome 👋, I'm Bharat</h1>
