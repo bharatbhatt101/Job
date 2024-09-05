@@ -13,7 +13,7 @@
 # <a href="https://bharatbhatt101.github.io/amazon.in/">Amazon</a>
 # <a href="https://bharatbhatt101.github.io/App.in/">App</a>
 # <a href="https://bharatbhatt101.github.io/calculator.in/">Calculator</a>
-# <a href="https://bharatbhatt101.github.io/ffofficial.in/">Free Fire</a>
+# <a href="https://bharatbhatt101.github.io/ffofficial.com/">Free Fire</a>
 # <a href="https://bharatbhatt101.github.io/spotify.in/">Spotify</a>
 # <a href="https://bharatbhatt101.github.io/phone.in/">Phone</a>
 # 📫 Connect with me:
